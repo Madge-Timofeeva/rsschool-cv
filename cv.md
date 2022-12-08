@@ -5,7 +5,8 @@
 ## Contacts                                     
 **Phone:** +375296640012                       
 **E-mail:** r1ta@tut.by                        
-**Discord:** Madge#6426                        
+**Discord:** Madge#6426
+[Discord](https://discord.com/channels/516715744646660106/900349852091817994)                       
 [GitHub](https://github.com/Madge-Timofeeva)   
 [linkedin](https://www.linkedin.com/feed/)     
 
