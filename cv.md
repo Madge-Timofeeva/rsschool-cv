@@ -1,7 +1,5 @@
 # Margarita Timofeeva
 
----
-
 ### Contacts
 
 * **Phone:** +375296640012
