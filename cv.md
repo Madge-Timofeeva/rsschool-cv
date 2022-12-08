@@ -1,7 +1,10 @@
-# Margarita Timofeeva                            |
------------------------------------------------- | :------------------:
-### Contacts                                     |
-* **Phone:** +375296640012                       
+# Margarita Timofeeva
+---
+#### Junior Frontend developer(React) 
+
+
+### Contacts                                     
+![Описание картинки с котиком](https://www.pngegg.com/ru/png-wjmib)+375296640012                       
 * **E-mail:** r1ta@tut.by                        
 * **Discord:** Madge#6426                        
 * [GitHub](https://github.com/Madge-Timofeeva)   
@@ -14,10 +17,19 @@ I'm learning front-end development.
 
 ### Skills
 
-* HTML
-* Css
-* JavaScript
-* Figma
+| Язык | Метка |
+
+| -----|------|
+
+| Java Script | javascript |
+
+| Css|css|
+
+| HTML|html|
+
+|Markdown|md|
+
+
 
 ### Code example
 ```
