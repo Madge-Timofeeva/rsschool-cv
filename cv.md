@@ -1,20 +1,20 @@
 # Margarita Timofeeva
 ![Margarita Timofeeva](/rsschool-cv/img/imgonline-com-ua-Resize-eyVoTrb6b8qsTq.jpg) 
-#### Junior Frontend developer(React) 
+### Junior Frontend developer(React) 
 
-### Contacts                                     
+## Contacts                                     
 **Phone:** +375296640012                       
 **E-mail:** r1ta@tut.by                        
 **Discord:** Madge#6426                        
 [GitHub](https://github.com/Madge-Timofeeva)   
 [linkedin](https://www.linkedin.com/feed/)     
 
-### About me
+## About me
 
 I am a student at **RSSchool**. 
 I'm learning front-end development.
 
-### Skills
+## Skills
 
 * HTML5/CSS3
 * JS
@@ -32,7 +32,7 @@ inputText.addEventListener('input', () => {
   }, 300)
 });
 ```
-### Education
+## Education
 
 **The Rolling Scopes** 
 
@@ -42,7 +42,7 @@ JS/FE Pre-School 2022Q4- 2022-2023
 
 Fullstack developer- 2022-2024
 
-### Languages
+## Languages
 
 * Russian - Native
 * Belorussian - Native
