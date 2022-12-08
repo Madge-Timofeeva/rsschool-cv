@@ -1,10 +1,9 @@
 # Margarita Timofeeva
----
 #### Junior Frontend developer(React) 
 
 
 ### Contacts                                     
-![Описание картинки с котиком](https://www.pngegg.com/ru/png-wjmib)+375296640012                       
+![Phone](/rsschool-cv/img/1663877486_11-top-fon-com-p-ikonka-telefon-seraya-foto-16.png)+375296640012                       
 * **E-mail:** r1ta@tut.by                        
 * **Discord:** Madge#6426                        
 * [GitHub](https://github.com/Madge-Timofeeva)   
@@ -17,17 +16,11 @@ I'm learning front-end development.
 
 ### Skills
 
-| Язык | Метка |
 
-| -----|------|
-
-| Java Script | javascript |
-
-| Css|css|
-
-| HTML|html|
-
-|Markdown|md|
+| Java Script | 
+| Css|
+| HTML|
+|Markdown|
 
 
 
