@@ -3,11 +3,11 @@
 
 
 ### Contacts                                     
-![Phone](/rsschool-cv/img/1663877486_11-top-fon-com-p-ikonka-telefon-seraya-foto-16.png)+375296640012                       
-* **E-mail:** r1ta@tut.by                        
-* **Discord:** Madge#6426                        
-* [GitHub](https://github.com/Madge-Timofeeva)   
-* [linkedin](https://www.linkedin.com/feed/)     
+**Phone:** +375296640012                       
+**E-mail:** r1ta@tut.by                        
+**Discord:** Madge#6426                        
+[GitHub](https://github.com/Madge-Timofeeva)   
+[linkedin](https://www.linkedin.com/feed/)     
 
 ### About me
 
@@ -16,13 +16,11 @@ I'm learning front-end development.
 
 ### Skills
 
-
-| Java Script | 
-| Css|
-| HTML|
-|Markdown|
-
-
+* HTML5/CSS3
+* JS
+* git
+* bootstrap
+* figma
 
 ### Code example
 ```
