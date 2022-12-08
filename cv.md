@@ -1,5 +1,5 @@
 # Margarita Timofeeva
-![Margarita Timofeeva](/rsschool-cv/img/imgonline-com-ua-Shape-lTn1IEIMq31.png) 
+![Margarita Timofeeva](/rsschool-cv/img/imgonline-com-ua-Resize-eyVoTrb6b8qsTq.jpg) 
 #### Junior Frontend developer(React) 
 
 ### Contacts                                     
@@ -35,9 +35,11 @@ inputText.addEventListener('input', () => {
 ### Education
 
 **The Rolling Scopes** 
+
 JS/FE Pre-School 2022Q4- 2022-2023
 
 **Slillbox**
+
 Fullstack developer- 2022-2024
 
 ### Languages
