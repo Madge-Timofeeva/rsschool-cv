@@ -10,5 +10,28 @@
 
 ### About me
 
-I am a school student RSSchool. learning frontend development
+I am a student at **RSSchool**. I'm learning front-end development.
+
+### Skills
+
+* HTML
+* Css
+* JavaScript
+* Figma
+
+### Code example
+
+inputText.addEventListener('input', () => {
+  clearTimeout(timeoutlId);
+  timeoutlId = setTimeout(() => {
+    headerText.innerHTML = inputText.value
+  }, 300)
+});
+
+
+### Languages
+
+* Russian - Native
+* Belorussian - Native
+* English  - Pre-Intermediate
 
