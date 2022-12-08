@@ -1,5 +1,7 @@
 # Margarita Timofeeva
 
+---
+
 ### Contacts
 
 * **Phone:** +375296640012
@@ -20,14 +22,14 @@ I am a student at **RSSchool**. I'm learning front-end development.
 * Figma
 
 ### Code example
-
+```
 inputText.addEventListener('input', () => {
   clearTimeout(timeoutlId);
   timeoutlId = setTimeout(() => {
     headerText.innerHTML = inputText.value
   }, 300)
 });
-
+```
 
 ### Languages
 
