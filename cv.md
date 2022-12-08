@@ -1,6 +1,6 @@
 # Margarita Timofeeva
+![Margarita Timofeeva](/rsschool-cv/img/imgonline-com-ua-Shape-lTn1IEIMq31.png) 
 #### Junior Frontend developer(React) 
-
 
 ### Contacts                                     
 **Phone:** +375296640012                       
@@ -21,6 +21,7 @@ I'm learning front-end development.
 * git
 * bootstrap
 * figma
+* Markdown
 
 ### Code example
 ```
@@ -31,6 +32,13 @@ inputText.addEventListener('input', () => {
   }, 300)
 });
 ```
+### Education
+
+**The Rolling Scopes** 
+JS/FE Pre-School 2022Q4- 2022-2023
+
+**Slillbox**
+Fullstack developer- 2022-2024
 
 ### Languages
 
